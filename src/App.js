@@ -9,10 +9,10 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://status-i51cjb767-rowans-projects-abbe4607.vercel.app/"
+          href="https://status-beige-eta.vercel.app/"
           rel="noopener noreferrer"
         >
-         https://status-i51cjb767-rowans-projects-abbe4607.vercel.app/
+         https://status-beige-eta.vercel.app/
         </a>
       </header>
     </div>
